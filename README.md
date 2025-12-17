@@ -82,32 +82,18 @@ Certain airlines consistently perform better across multiple rating categories.
 
 📌 Conclusion
 
-The analysis shows that service quality consistency is the most important factor influencing customer satisfaction.
-
-Business and Premium Economy passengers express higher satisfaction compared to Economy travelers.
-
-Airlines with better on-board experience (cleanliness, comfort, entertainment) receive the highest ratings.
-
-WiFi quality remains one of the weakest areas in many airlines and greatly impacts review sentiment.
-
+The analysis reveals that overall passenger satisfaction is strongly influenced by service quality factors such as seat comfort, staff behavior, and value for money. While entertainment and food services enhance the experience, basic comfort and service reliability remain the most critical drivers of positive reviews.Improving underperforming areas can significantly enhance customer satisfaction and airline reputation.
 🏆 RECOMMENDATION
 
-- Improve WiFi Connectivity
-   - WiFi is one of the most frequently mentioned negative aspects. Strengthening onboard internet quality can drastically improve reviews.
+Focus on improving seat comfort, especially for long-haul flights
 
-- Focus on Seat Comfort in Economy Class
-   - Most low ratings come from Economy passengers. Improving legroom and cushioning may enhance satisfaction scores.
+Provide staff training programs to enhance customer interaction
 
-- Enhance Value-for-Money Services
-  - Provide small perks, better meal quality, or entertainment options for lower-cost tickets.
+Upgrade inflight entertainment systems
 
-- Staff Training
-   - Friendly and supportive cabin crew repeatedly appear in positive reviews. Regular training should be enhanced.
+Improve WiFi connectivity and reliability
 
-- Monitor Feedback by Traveller Type
-   - Leisure travelers prefer comfort & cleanliness.
-   - Business travelers care about efficiency & WiFi.
-   - Tailored improvements can help target specific groups.
+Tailor services based on traveller type and cabin class
 
    📚 References
 
