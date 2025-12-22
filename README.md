@@ -2,12 +2,15 @@
 
 A data analysis project exploring airline passenger reviews to understand customer satisfaction and travel experiences. The project uses Python-based analytics and visualizations to identify patterns across traveller types, seat classes, airlines, and service ratings.
 
-📌 Project Overview
+📌 Project scope
 
-This project analyzes real-world airline review data to understand what factors influence customer satisfaction. It examines how different traveller types, seat classes, and service features such as food quality, cabin staff service, entertainment, and seat comfort impact the overall rating.
+- The analysis is limited to the available airline review dataset.
 
-Using Python, the dataset is cleaned, analyzed, and visualized to extract meaningful insights that can help airlines improve service quality and customer experience.
+- Only customer-provided ratings and reviews are considered.
 
+- Text reviews are used mainly for understanding sentiment patterns (if applicable).
+
+- The project focuses on descriptive and exploratory analysis rather than predictive modeling.
 🎯 Objectives
 
 - Load and explore the dataset
@@ -81,20 +84,21 @@ Service categories such as cabin staff, comfort, and food strongly influence ove
 Certain airlines consistently perform better across multiple rating categories.
 
 📌 Conclusion
-
-The analysis reveals that overall passenger satisfaction is strongly influenced by service quality factors such as seat comfort, staff behavior, and value for money. While entertainment and food services enhance the experience, basic comfort and service reliability remain the most critical drivers of positive reviews.Improving underperforming areas can significantly enhance customer satisfaction and airline reputation.
+ From the analysis of airline review data, it is evident that customer satisfaction varies significantly across different service parameters. Factors such as cabin staff service, seat comfort, and value for money have a strong influence on overall ratings. Missing values and inconsistent data required careful preprocessing to ensure accurate analysis.The visualizations helped in clearly understanding trends, distributions, and relationships between variables. Overall, the project demonstrates how data analysis and visualization can transform raw customer feedback into meaningful business insights that can support better decision-making in the airline industry.
+ 
 🏆 RECOMMENDATION
 
-Focus on improving seat comfort, especially for long-haul flights
+- Airlines should prioritize improving cabin staff service, as it has a strong impact on customer satisfaction.
 
-Provide staff training programs to enhance customer interaction
+- Enhancing seat comfort and onboard facilities can significantly improve passenger experience.
 
-Upgrade inflight entertainment systems
+- Improving food and beverage quality may help increase overall ratings, especially for long-haul flights.
 
-Improve WiFi connectivity and reliability
+- Ground services such as check-in, boarding, and baggage handling need consistent monitoring.
 
-Tailor services based on traveller type and cabin class
+- Airlines should actively analyze customer reviews to identify recurring complaints and address them promptly.
 
+- Regular data-driven analysis should be conducted to track customer satisfaction trends over time.
    📚 References
 
 Dataset:
